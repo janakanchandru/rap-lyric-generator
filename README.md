@@ -1,1 +1,1 @@
-# rap_lyric_generator
+# rap-lyric-generator
