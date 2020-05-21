@@ -28,7 +28,7 @@ I also trained a second model, which was the same as the one mentioned above how
     - prints some interesting metrics (ex. top 50 and bottom 50 words in the dataset in terms of occurrence)
 3. `model.py`
     - contains the model definition(s)
-4. `[train.py](http://train.py)` 
+4. `train.py` 
     - splits the encoded training set into training examples
     - trains the model on the generated training examples using a model defined in `model.py`
     - requires the dumped encoded training set, vocab set, and lookup tables
