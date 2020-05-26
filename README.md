@@ -5,6 +5,10 @@ I trained the model on the songs of some of my favourite rap artists to yield re
 
 I also trained a second model, which was the same as the one mentioned above however with two bidirectional LSTMs rather than two conventional ones. I thought it might improve the models ability to pick on context, themes, and have successive lines flow better. In the end, there was a slight improvement in the quality of individual lines and the model produced good results more consistently. However, there wasn't a notable improvement in the areas I had expected. 
 
+**Next Steps:**
+- try building my own embedding layer
+- train using a better metric
+
 ## Contents
 * [Files (and Usage)](#files-and-usage)
 * [Data Preprocessing](#data-preprocessing)
